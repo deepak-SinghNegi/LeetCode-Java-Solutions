@@ -21,4 +21,4 @@ Each problem is stored in its own folder with:
 ---
 
 📬 Stay connected:  
-[LinkedIn](www.linkedin.com/in/deepak-negi-633971371) | [Portfolio]()
+[LinkedIn](https://www.linkedin.com/in/deepak-negi-633971371) | [Portfolio]()
