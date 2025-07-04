@@ -1,36 +1,38 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        if(s1.length()>s2.length())return false;
-        if(s1.length()==1 && s2.length()==1){
-            if(s2.charAt(0)==s1.charAt(0)){
+        int [] s1Freq = new int[26] ;
+        int [] s2Freq = new int[26] ;
+        int start = 0;
+        int matchReq = 0;
+        int matchFound = 0;
+        for(int i =0; i<s1.length();i++ ){
+            s1Freq[s1.charAt(i) - 'a']++;
+        }
+        for(int i=0;i<26;i++){
+            if(s1Freq[i]>0)matchReq++;
+        }
+
+        for(int end = 0;end<s2.length();end++){
+            int eIndx = s2.charAt(end)-'a';
+            s2Freq[eIndx]++;
+            if(s1Freq[eIndx]==s2Freq[eIndx])matchFound++;
+            else if(s1Freq[eIndx]+1==s2Freq[eIndx]) matchFound--;
+
+            if(end-start+1 == s1.length()){
+                if(matchFound==matchReq){
+                    return true;
+                }
+                int sIndx = s2.charAt(start) - 'a';
+                if(s1Freq[sIndx]==s2Freq[sIndx])matchFound--;
+                else if(s1Freq[sIndx]+1==s2Freq[sIndx])matchFound++;
+                s2Freq[sIndx]--;
+                start++;
+
+            }
+            if(end-start+1 == s1.length() && matchFound==matchReq){
                 return true;
             }
-            return false;
         }
-       HashMap<Character,Integer> subStr = new HashMap<>();
-       for(int i=0;i<s1.length();i++){
-        char ch = s1.charAt(i);
-        subStr.put(ch,subStr.getOrDefault(ch,0)+1);
-       }
-       HashMap<Character,Integer> window = new HashMap<>();
-       int left = 0;
-       int right = 0;
-       while(right<s2.length()){
-        char ch = s2.charAt(right);
-        window.put(ch,window.getOrDefault(ch,0)+1);
-        if(right-left+1 > s1.length()){
-            char toRemove = s2.charAt(left);
-            window.put(toRemove, window.get(toRemove) - 1);
-            if(window.get(toRemove)==0){
-                window.remove(toRemove);
-            }
-            left++;
-        }
-        if(right-left+1==s1.length()&&subStr.equals(window)){
-            return true;
-        }
-       right++;
-       }
-       return false;
+        return false;
     }
 }
