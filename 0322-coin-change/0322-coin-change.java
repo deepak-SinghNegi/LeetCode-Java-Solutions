@@ -29,15 +29,6 @@ class Solution {
     }
     
 }
-public class CoinChange {
-   public static void main(String[] args) {
-     int [] arr = {4,2,8};
-    int amount = 11;
-    Solution sol =new Solution();
-    int result = sol.coinChange(arr, amount);
-    System.out.println(result);
-    
-   }
-}
+
 
 
