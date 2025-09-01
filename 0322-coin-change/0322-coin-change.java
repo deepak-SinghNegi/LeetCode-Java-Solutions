@@ -1,4 +1,4 @@
-import java.util.Arrays;
+
 class Solution {
     public int MinCoin(int []arr,int amount ,int[] Dp){
         
