@@ -18,14 +18,15 @@ class Solution {
             return  Dp[i]=Math.max(skip,steal);
     }
     public int rob(int[] nums) {
+        if(nums.length==1)return nums[0];
         int [] Dp1 = new int[nums.length+1];
         Arrays.fill(Dp1,-1);
         int [] Dp2 = new int[nums.length+1];
         Arrays.fill(Dp2,-1);
         int rob1 =  robbing1(nums,0,nums.length-1,Dp1);
-        System.out.println(rob1);
+        // System.out.println(rob1);
         int rob2 = robbing2(nums,1,nums.length,Dp2);
-        System.out.println(rob2);
+        // System.out.println(rob2);
         return Math.max(rob1, rob2);
     }
 }
