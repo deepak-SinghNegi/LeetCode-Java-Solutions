@@ -1,60 +1,59 @@
 class Solution {
-    public int garbageCollection(String[] garbage, int[] travel) {
-        int n = garbage.length;
-        int p = -1;
-        int m = -1;
-        int g = -1;
-        int travelTime = 0;
-        for (int i = n - 1; i >= 0; i--) {
-            if (garbage[i].contains("G")) {
-                g = i;
-                break;
-            }
+    public int garbageCollection(String[] garbage, int[] travel)
+    {
+        int lastindexP = -1;
+        int lastindexM = -1;
+        int lastindexG = -1;
 
-        }
-        
-        for (int i = n - 1; i >= 0; i--) {
-            if (garbage[i].contains("M")) {
-                m = i;
-                break;
-            }
-
-        }
        
-        for (int i = n - 1; i >= 0; i--) {
+        for (int i = garbage.length - 1; i >= 0; i--) {
             if (garbage[i].contains("P")) {
-                p = i;
+                lastindexP = i;
                 break;
             }
+        }
 
-        }
-      
-        for (int i = 0; i <= g; i++) {
-            int l = garbage[i].length();
-            for (int j = 0; j < l; j++) {
-                if (garbage[i].charAt(j) == 'G')
-                    travelTime++;
+        
+        for (int i = garbage.length - 1; i >= 0; i--) {
+            if (garbage[i].contains("M")) {
+                lastindexM = i;
+                break;
             }
-            if(i>=1)travelTime += travel[i-1];
         }
-        for (int i = 0; i <= m; i++) {
-            int l = garbage[i].length();
-            for (int j = 0; j < l; j++) {
-                if (garbage[i].charAt(j) == 'M')
-                    travelTime++;
-            }
-            if(i>=1)travelTime += travel[i-1];
 
-        }
-        for (int i = 0; i <= p; i++) {
-            int l = garbage[i].length();
-            for (int j = 0; j < l; j++) {
-                if (garbage[i].charAt(j) == 'P')
-                    travelTime++;
+       
+        for (int i = garbage.length - 1; i >= 0; i--) {
+            if (garbage[i].contains("G")) {
+                lastindexG = i;
+                break;
             }
-            if(i>=1)travelTime += travel[i-1];
-
         }
-        return travelTime;
+
+        
+        int prefix[] = new int[travel.length];
+        if (travel.length > 0) {
+            prefix[0] = travel[0];
+            for (int i = 1; i < travel.length; i++) {
+                prefix[i] = travel[i] + prefix[i - 1];
+            }
+        }
+
+        
+        int totalTime = 0;
+        for (int i = 0; i < garbage.length; i++) {
+            totalTime += garbage[i].length();
+        }
+
+       
+        if (lastindexP > 0)
+            totalTime += prefix[lastindexP - 1];
+
+        if (lastindexM > 0)
+            totalTime += prefix[lastindexM - 1];
+
+        if (lastindexG > 0)
+            totalTime += prefix[lastindexG - 1];
+
+        return totalTime;
     }
 }
