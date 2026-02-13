@@ -12,7 +12,7 @@ class Solution {
             }
 
         }
-        System.out.println(g);
+        
         for (int i = n - 1; i >= 0; i--) {
             if (garbage[i].contains("M")) {
                 m = i;
@@ -20,7 +20,7 @@ class Solution {
             }
 
         }
-        System.out.println(m);
+       
         for (int i = n - 1; i >= 0; i--) {
             if (garbage[i].contains("P")) {
                 p = i;
@@ -28,7 +28,7 @@ class Solution {
             }
 
         }
-        System.out.println(p);
+      
         for (int i = 0; i <= g; i++) {
             int l = garbage[i].length();
             for (int j = 0; j < l; j++) {
