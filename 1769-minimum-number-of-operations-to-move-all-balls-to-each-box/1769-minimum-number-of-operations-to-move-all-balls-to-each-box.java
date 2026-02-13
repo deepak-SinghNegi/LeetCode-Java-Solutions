@@ -7,7 +7,7 @@ class Solution {
         while(x<n &&boxes.charAt(x-1)-'0'==0)x++;
 
         if(x>=n) return prifix;
-        for(int i=x;i<n;i++){
+        for(int i=1;i<n;i++){
            if(boxes.charAt(i-1)-'0'==1)balls++;
             
                 
@@ -25,13 +25,7 @@ class Solution {
                 sufix[i] =  sufix[i+1]+balls;
             
         }
-        for(int y : prifix){
-            System.out.print(x +" ");
-        }
-        System.out.println();
-        for(int z : sufix){
-            System.out.print(z +" ");
-        }
+       
         for(int i=0;i<n;i++){
             prifix[i]+=sufix[i];
         }
