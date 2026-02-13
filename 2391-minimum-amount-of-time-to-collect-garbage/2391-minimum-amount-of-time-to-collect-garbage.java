@@ -6,23 +6,28 @@ class Solution {
         int g = -1;
         int travelTime = 0;
         for (int i = n - 1; i >= 0; i--) {
-            if (garbage[i].contains("G") && g<0) {
+            if (garbage[i].contains("G")) {
                 g = i;
-                
+                break;
             }
-            if (garbage[i].contains("P") && p<0) {
-                p = i;
-                
-            }
-           if (garbage[i].contains("M") && m<0) {
-                m = i;
-                
-            }
-            
 
         }
         
+        for (int i = n - 1; i >= 0; i--) {
+            if (garbage[i].contains("M")) {
+                m = i;
+                break;
+            }
+
+        }
        
+        for (int i = n - 1; i >= 0; i--) {
+            if (garbage[i].contains("P")) {
+                p = i;
+                break;
+            }
+
+        }
       
         for (int i = 0; i <= g; i++) {
             int l = garbage[i].length();
