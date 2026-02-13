@@ -6,8 +6,8 @@ class Solution {
         int balls =0;
         while(x<n &&boxes.charAt(x-1)-'0'==0)x++;
 
-        if(x>=n) return prifix;
-        for(int i=1;i<n;i++){
+        
+        for(int i=x;i<n;i++){
            if(boxes.charAt(i-1)-'0'==1)balls++;
             
                 
@@ -16,7 +16,7 @@ class Solution {
         }
         x = n-2;
         int [] sufix = new int [n];
-        while(boxes.charAt(x+1)-'0'==0)x--;
+        while(x>=0 && boxes.charAt(x+1)-'0'==0)x--;
         balls = 0;
         for(int i=x;i>=0;i--){
            if (boxes.charAt(i+1)-'0'==1)balls++;
