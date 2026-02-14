@@ -10,9 +10,14 @@ class Solution {
             else
                 st.push(x);
         }
+        char [] arr = new char[st.size()];
         StringBuilder sb = new StringBuilder();
-        while (!st.isEmpty())
-            sb.insert(0, st.pop());
+        for (int i = arr.length - 1; i >= 0; i--) {
+            arr[i] = st.pop();
+        }
+        for (int i = 0; i < arr.length; i++) {
+            sb.append(arr[i]);
+        }
         return sb.toString();
     }
 }
