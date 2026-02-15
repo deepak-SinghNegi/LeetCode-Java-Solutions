@@ -1,11 +1,12 @@
 class Solution {
     public int minOperations(int[] nums) {
         int flip = 0;
-        for (int i = 0; i < nums.length; i++) {
+        for (int i = 0; i < nums.length-2; i++) {
             if (nums[i] == 0) {
-                for (int j = i; j < i + 3 && i + 3 <= nums.length; j++) {
-                    nums[j] = nums[j] > 0 ? 0 : 1;
-                }
+                    nums[i] = 1;
+                    nums[i+1] = nums[i+1] > 0 ? 0 : 1;
+                    nums[i+2] = nums[i+2] > 0 ? 0 : 1;
+                
                 flip++;
             }
         }
