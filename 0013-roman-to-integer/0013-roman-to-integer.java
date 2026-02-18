@@ -16,16 +16,16 @@ class Solution {
             int currVal = map.get(s.charAt(curr));
             int nextVal = map.get(s.charAt(next));
             if (currVal >= nextVal) {
-                num +=currVal;
+                num += currVal;
                 next = curr;
                 curr--;
-                
+
             } else {
                 num -= currVal;
                 curr--;
                 next = curr;
             }
-            System.out.println(num);
+
         }
         return num;
     }
