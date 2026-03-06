@@ -92,6 +92,7 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0007-reverse-integer/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
