@@ -49,6 +49,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -95,10 +96,12 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0012-integer-to-roman](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
