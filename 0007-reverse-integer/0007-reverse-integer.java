@@ -1,16 +1,15 @@
 class Solution {
     public int reverse(int x) {
-        long rev = 0;
+        int sign = x < 0 ? -1 : 1;
         int temp = Math.abs(x);
-        while(temp>0){
-           if(rev*10>=Integer.MAX_VALUE)return 0;
-            rev *= 10;
-             
-            rev += temp%10;
-            
-            temp /= 10;
+        long revX = 0;
+        while (temp != 0) {
+            int last = temp % 10;
+            revX *= 10;
+            revX += last;
+            temp /=10;
         }
-        if(x<0) return (int)(-1*rev);
-        return (int)rev;
+        if(revX<Integer.MIN_VALUE || revX > Integer.MAX_VALUE) return 0;
+        return (int)(revX * sign);
     }
 }
