@@ -1,52 +1,33 @@
 class Solution {
-     private void helper(List<String> list, StringBuilder sb, int n, int k, char prev) {
-        sb.append(prev);
-        if (sb.length() >= n) {
-            list.add(sb.toString());
-            sb.deleteCharAt(sb.length() - 1);
-            return;
-        }
-        if (prev == 'a') {
+    int count = 0;
+    String ans = "";
 
-            helper(list, sb, n, k, 'b');
-            helper(list, sb, n, k, 'c');
-            sb.deleteCharAt(sb.length() - 1);
-        } else if (prev == 'b') {
-            helper(list, sb, n, k, 'a');
-            helper(list, sb, n, k, 'c');
-            sb.deleteCharAt(sb.length() - 1);
-
-        } else if (prev == 'c') {
-            helper(list, sb, n, k, 'a');
-            helper(list, sb, n, k, 'b');
-            sb.deleteCharAt(sb.length() - 1);
-
-        }
-
-    } 
     public String getHappyString(int n, int k) {
-        List<String> ls = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
-        helper(ls, sb, n, k, 'a');
-       
-        if (ls.size() >= k) {
-            return ls.get(k-1);
-        }
-        helper(ls, sb, n, k, 'b');
-       
-        if (ls.size() >= k) {
-            return ls.get(k-1);
-        }
-        helper(ls, sb, n, k, 'c');
-        
+        helper(sb , n , k , '\0');
+        return ans;
+    }
 
-        if(k <= ls.size()){
-            return ls.get(k-1);
+    private void helper(StringBuilder sb, int n, int k, char prev) {
+        if (!ans.equals(""))
+            return;
+        if (sb.length() >= n) {
+            count++;
+            if (count == k) {
+                ans = sb.toString();
+            }
+            return;
+
         }
-        else{
-            return "";
+        for (char ch : new char[] { 'a', 'b', 'c' }) {
+            if (ch == prev)
+                continue;
+
+            sb.append(ch);
+            helper(sb, n, k, ch);
+            sb.deleteCharAt(sb.length() - 1);
+
         }
 
     }
-
 }
