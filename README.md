@@ -36,6 +36,7 @@ Each problem is stored in its own folder with:
 | [0078-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0078-subsets/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -101,6 +102,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
