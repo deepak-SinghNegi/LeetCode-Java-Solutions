@@ -1,8 +1,9 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
-        int left = 1;
+        int left = 0;
         int right = 1;
         for (int val : weights) {
+            left = Math.max(left , val);
             right += val;
         }
         while (left < right) {
