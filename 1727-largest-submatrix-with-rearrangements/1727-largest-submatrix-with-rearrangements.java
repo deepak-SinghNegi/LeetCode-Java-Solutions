@@ -11,14 +11,11 @@ class Solution {
         }
         int max = 0;
         for (int i = 0; i < m; i++) {
-            int [] row = matrix[i].clone();
-            Arrays.sort(row);
+            
+            Arrays.sort(matrix[i]);
             for(int j =n-1; j>=0;j--){
-                max = Math.max(max , row[j] *(n-j));
+                max = Math.max(max , matrix[i][j] *(n-j));
             }
-
-           
-
         }
        
 
