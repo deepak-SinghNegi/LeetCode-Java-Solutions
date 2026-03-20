@@ -33,6 +33,7 @@ Each problem is stored in its own folder with:
 | [0039-combination-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0162-find-peak-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -165,6 +166,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0078-subsets/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
