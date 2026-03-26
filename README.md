@@ -30,6 +30,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0018-4sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0018-4sum/) | Medium |
 | [0039-combination-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -158,6 +159,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0018-4sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -214,5 +216,6 @@ Each problem is stored in its own folder with:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0018-4sum/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 <!---LeetCode Topics End-->
