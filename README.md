@@ -104,12 +104,14 @@ Each problem is stored in its own folder with:
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -120,6 +122,7 @@ Each problem is stored in its own folder with:
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -229,4 +232,8 @@ Each problem is stored in its own folder with:
 | [0018-4sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0018-4sum/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
