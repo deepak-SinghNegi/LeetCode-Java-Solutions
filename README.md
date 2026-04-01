@@ -35,6 +35,7 @@ Each problem is stored in its own folder with:
 | [0040-combination-sum-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0046-permutations/) | Medium |
+| [0053-maximum-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -181,6 +182,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -218,6 +220,7 @@ Each problem is stored in its own folder with:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Prefix Sum
