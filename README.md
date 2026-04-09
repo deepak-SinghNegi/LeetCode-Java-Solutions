@@ -57,6 +57,7 @@ Each problem is stored in its own folder with:
 | [1672-richest-customer-wealth](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1816-truncate-sentence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
@@ -100,6 +101,7 @@ Each problem is stored in its own folder with:
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1816-truncate-sentence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
