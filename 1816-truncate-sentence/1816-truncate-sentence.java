@@ -9,7 +9,7 @@ class Solution {
             }
             sb.append(arr[i] +" ");
         }
-        sb.deleteCharAt(sb.length()-1);
-        return sb.toString();
+        
+        return sb.toString().trim();
     }
 }
