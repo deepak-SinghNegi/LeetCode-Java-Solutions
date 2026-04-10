@@ -63,6 +63,7 @@ Each problem is stored in its own folder with:
 | [1980-find-unique-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2559-count-vowel-strings-in-ranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
@@ -107,6 +108,7 @@ Each problem is stored in its own folder with:
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2559-count-vowel-strings-in-ranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -256,6 +258,7 @@ Each problem is stored in its own folder with:
 | [0560-subarray-sum-equals-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [2559-count-vowel-strings-in-ranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
