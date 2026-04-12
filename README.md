@@ -58,6 +58,7 @@ Each problem is stored in its own folder with:
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1816-truncate-sentence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1816-truncate-sentence/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -118,10 +119,12 @@ Each problem is stored in its own folder with:
 | [0002-add-two-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +172,7 @@ Each problem is stored in its own folder with:
 | [0012-integer-to-roman](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0263-ugly-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0263-ugly-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,4 +282,8 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 <!---LeetCode Topics End-->
