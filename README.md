@@ -37,6 +37,7 @@ Each problem is stored in its own folder with:
 | [0045-jump-game-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0078-subsets/) | Medium |
@@ -104,6 +105,7 @@ Each problem is stored in its own folder with:
 | [0012-integer-to-roman](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0038-count-and-say/) | Medium |
+| [0049-group-anagrams](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0567-permutation-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -187,6 +189,7 @@ Each problem is stored in its own folder with:
 | [0001-two-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0049-group-anagrams](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -279,6 +282,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0018-4sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
