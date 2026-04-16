@@ -30,6 +30,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0018-4sum/) | Medium |
 | [0039-combination-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
@@ -103,6 +104,7 @@ Each problem is stored in its own folder with:
 | [0008-string-to-integer-atoi](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0014-longest-common-prefix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -303,4 +305,8 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
