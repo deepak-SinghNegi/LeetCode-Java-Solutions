@@ -190,6 +190,7 @@ Each problem is stored in its own folder with:
 | [0263-ugly-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
