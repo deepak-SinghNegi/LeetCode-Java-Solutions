@@ -1,16 +1,18 @@
 class Solution {
-    public int paths(int n,int m, int[][]Dp){
-        if(m==0||n==0) return 0;
-        if(m==1||n==1) return 1;
-        if(Dp[m][n]!=-1) return Dp[m][n];
-
-        return Dp[m][n] = paths(n-1,m,Dp)+paths(n, m-1, Dp);
-    }
     public int uniquePaths(int m, int n) {
-         int[][] Dp = new int[n + 1][m + 1];
-        for (int[] row : Dp) {
-            Arrays.fill(row, -1);
-        }
-        return paths(m,n,Dp);
+        int [][] memo = new int[m+1][n+1];
+        
+        for(int i = 0; i< n;i++) memo[0][i] = 0;
+        for(int i = 0; i< m;i++) memo[i][0] = 0;
+        memo[1][1] = 1;
+        return helper(memo , m , n);
+    }
+    private int helper(int[][] memo , int m , int n){
+        if(m==0 || n == 0 ) return memo[m][n];
+        if(m ==1 && n == 1) return memo[m][n];
+        if(memo[m][n] != 0) return memo[m][n];
+
+        memo[m][n] = helper( memo ,m-1 , n) + helper(memo , m, n-1);
+        return memo[m][n];
     }
 }
