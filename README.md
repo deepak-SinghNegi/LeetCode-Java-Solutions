@@ -201,6 +201,7 @@ Each problem is stored in its own folder with:
 | [0012-integer-to-roman](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0062-unique-paths](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0263-ugly-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -252,6 +253,7 @@ Each problem is stored in its own folder with:
 | [0055-jump-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0070-climbing-stairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -347,6 +349,7 @@ Each problem is stored in its own folder with:
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
