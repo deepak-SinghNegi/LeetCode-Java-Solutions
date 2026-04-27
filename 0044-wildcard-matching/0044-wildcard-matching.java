@@ -29,6 +29,6 @@ class Solution {
             return Dp[i][j] = helper(s, p, i, j + 1 , Dp) || helper(s, p, i + 1, j , Dp);
 
         }
-        return false;
+        return Dp[i][j] = false;
     }
 }
