@@ -6,9 +6,7 @@ class Solution {
 
         }
         int round = 0;
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            
-            int x = entry.getValue();
+        for (int x : map.values()) {
             if (x == 1) return -1;
             round += ((x + 2) / 3);
                 
