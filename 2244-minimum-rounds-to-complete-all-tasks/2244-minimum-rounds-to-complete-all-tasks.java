@@ -7,19 +7,11 @@ class Solution {
         }
         int round = 0;
         for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            int temp = 0;
+            
             int x = entry.getValue();
-            while (x > 1) {
-                if (x - 3 == 0 || x - 3 > 1) {
-                    x -= 3;
-                } else {
-                    x -= 2;
-                }
-                temp++;
-            }
-            if (temp == 0)
-                return -1;
-            round += temp;
+            if (x == 1) return -1;
+            round += ((x + 2) / 3);
+                
         }
         return round;
     }
