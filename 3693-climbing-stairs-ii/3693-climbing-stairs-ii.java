@@ -1,5 +1,5 @@
 class Solution {
-    int cost = Integer.MAX_VALUE;
+
 
     public int climbStairs(int n, int[] costs) {
         Integer Dp[]= new Integer [n+1];
@@ -16,9 +16,9 @@ class Solution {
         int minCost = Integer.MAX_VALUE;
         for(int j = 1; j<= 3; j++){
             if (i + j > n) continue;
-            int x = costs[i+j] + j*j + helper(n , costs , i+j , Dp);
+            int currCost = costs[i+j] + j*j + helper(n , costs , i+j , Dp);
 
-            minCost =  Math.min(minCost , x);
+            minCost =  Math.min(minCost , currCost);
         }
      return Dp[i] = minCost;
     }
