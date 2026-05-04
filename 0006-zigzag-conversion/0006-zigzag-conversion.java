@@ -7,9 +7,7 @@ class Solution {
 
         for (int i = 0; i < numRows; i++) {
             for (int j = i; j < s.length(); j += mainJump) {
-                sb.append(s.charAt(j)); // vertical part
-
-                // diagonal part for middle rows
+                sb.append(s.charAt(j));
                 int diagIdx = j + mainJump - 2 * i;
                 if (i > 0 && i < numRows - 1 && diagIdx < s.length()) {
                     sb.append(s.charAt(diagIdx));
