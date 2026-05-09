@@ -75,6 +75,7 @@ Each problem is stored in its own folder with:
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1914-cyclically-rotating-a-grid](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -114,6 +115,7 @@ Each problem is stored in its own folder with:
 | [1672-richest-customer-wealth](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1914-cyclically-rotating-a-grid](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
@@ -160,6 +162,7 @@ Each problem is stored in its own folder with:
 | [0566-reshape-the-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
