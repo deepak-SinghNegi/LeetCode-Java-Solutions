@@ -82,6 +82,7 @@ Each problem is stored in its own folder with:
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2615-sum-of-distances](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2615-sum-of-distances/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3660-jump-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3660-jump-game-ix/) | Medium |
@@ -276,6 +277,7 @@ Each problem is stored in its own folder with:
 | [0877-stone-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Backtracking
