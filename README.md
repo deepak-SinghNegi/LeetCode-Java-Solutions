@@ -175,6 +175,7 @@ Each problem is stored in its own folder with:
 | [0098-validate-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -193,6 +194,7 @@ Each problem is stored in its own folder with:
 | [0098-validate-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -362,6 +364,7 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
