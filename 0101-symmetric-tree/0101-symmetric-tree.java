@@ -15,19 +15,17 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        if (root == null)
-            return false;
-        if (root.left == null && root.right == null)
-            return true;
-        return mirror(root.left, root.right);
+        if(root.left == null && root.right == null) return true;
+        else if (root.left == null || root.right == null) return false;
+        else{
+            return mirror( root.left , root.right);
+        }
     }
-
-    private boolean mirror(TreeNode lst, TreeNode rst) {
-        if (lst == null && rst == null)
-            return true;
-        if (lst == null || rst == null)
-            return false;
-        return lst.val == rst.val && mirror(lst.left, rst.right) && mirror(lst.right, rst.left);
-
+    private boolean mirror(TreeNode lst , TreeNode rst){
+        if(lst == null && rst == null) return true;
+        else if(lst == null || rst == null) return false;
+        else{
+            return lst.val == rst.val && mirror(lst.left , rst.right) && mirror(lst.right , rst.left);
+        }
     }
 }
