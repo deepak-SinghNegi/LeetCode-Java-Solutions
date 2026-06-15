@@ -18,16 +18,12 @@ class Solution {
         return helper(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
 
-    private boolean helper(TreeNode node, long min, long max) {
-        if (node == null) {
+    boolean helper(TreeNode root, long min, long max) {
+        if (root == null)
             return true;
-        }
-
-        if (node.val <= min || node.val >= max) {
+        if (root.val >= max || root.val <= min)
             return false;
-        }
-
-        return helper(node.left, min, node.val) &&
-               helper(node.right, node.val, max);
+        return helper(root.left, min, root.val) &&
+                helper(root.right, root.val, max);
     }
 }
