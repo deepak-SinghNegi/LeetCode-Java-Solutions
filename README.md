@@ -64,6 +64,7 @@ Each problem is stored in its own folder with:
 | [0852-peak-index-in-a-mountain-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0994-rotting-oranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -116,6 +117,7 @@ Each problem is stored in its own folder with:
 | [0240-search-a-2d-matrix-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -211,6 +213,7 @@ Each problem is stored in its own folder with:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
