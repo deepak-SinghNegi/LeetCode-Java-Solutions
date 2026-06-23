@@ -72,6 +72,7 @@ Each problem is stored in its own folder with:
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -122,6 +123,7 @@ Each problem is stored in its own folder with:
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -216,6 +218,7 @@ Each problem is stored in its own folder with:
 | [0572-subtree-of-another-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -228,6 +231,7 @@ Each problem is stored in its own folder with:
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -265,6 +269,7 @@ Each problem is stored in its own folder with:
 | [0875-koko-eating-bananas](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -478,6 +483,7 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -487,4 +493,8 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
