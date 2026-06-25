@@ -51,6 +51,7 @@ Each problem is stored in its own folder with:
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0396-rotate-function](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0396-rotate-function/) | Medium |
@@ -115,6 +116,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0085-maximal-rectangle](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
@@ -210,6 +212,7 @@ Each problem is stored in its own folder with:
 | [0110-balanced-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -228,6 +231,7 @@ Each problem is stored in its own folder with:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -496,5 +500,6 @@ Each problem is stored in its own folder with:
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
