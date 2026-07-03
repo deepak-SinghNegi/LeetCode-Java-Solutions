@@ -1,12 +1,18 @@
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
-        return helper(nums , target , 0 , 0);
-    }
-    private int helper(int [] nums , int target , int i , int sum){
-        if(i >= nums.length){
-            if(sum == target) return 1;
-            else return 0;
+        int m = nums.length;
+        int t = 0;
+        for(int i : nums) t+=i;
+        int Dp[][]  = new int[m+1][t*2+1];
+        for(int [] arr : Dp){
+            Arrays.fill(arr , -1);
         }
-        return helper(nums , target , i +1 , sum - nums[i]) + helper(nums , target , i +1 , sum + nums[i]);  
+        return findTargetSumWaysUtil(nums , Dp , target , 0 , 0,Dp[0].length / 2);
+    }
+    private int findTargetSumWaysUtil(int []nums , int [][] Dp , int target , int currSum ,int i , int t){
+        if(i >= nums.length ) 
+        return (currSum == target) ? 1 : 0;
+        if(Dp[i][currSum +t] !=-1) return Dp[i][currSum +t];
+        return Dp[i][currSum +t] = findTargetSumWaysUtil(nums , Dp , target , currSum + nums[i] , i+1 , t) +  findTargetSumWaysUtil(nums , Dp , target , currSum - nums[i] , i+1 , t); 
     }
 }
