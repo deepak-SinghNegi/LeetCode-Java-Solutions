@@ -40,6 +40,7 @@ Each problem is stored in its own folder with:
 | [0045-jump-game-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0055-jump-game/) | Medium |
@@ -118,6 +119,7 @@ Each problem is stored in its own folder with:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0085-maximal-rectangle](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -295,6 +297,7 @@ Each problem is stored in its own folder with:
 | [0007-reverse-integer](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0048-rotate-image](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
