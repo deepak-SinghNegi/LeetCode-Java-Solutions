@@ -63,6 +63,7 @@ Each problem is stored in its own folder with:
 | [0416-partition-equal-subset-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
