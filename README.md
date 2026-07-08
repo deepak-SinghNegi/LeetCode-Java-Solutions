@@ -56,6 +56,7 @@ Each problem is stored in its own folder with:
 | [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0322-coin-change](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -241,6 +242,7 @@ Each problem is stored in its own folder with:
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -362,6 +364,7 @@ Each problem is stored in its own folder with:
 | [0085-maximal-rectangle](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0322-coin-change](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
