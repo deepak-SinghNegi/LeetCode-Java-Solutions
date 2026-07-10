@@ -229,6 +229,7 @@ Each problem is stored in its own folder with:
 | [0145-binary-tree-postorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -250,6 +251,7 @@ Each problem is stored in its own folder with:
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
@@ -519,6 +521,7 @@ Each problem is stored in its own folder with:
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -536,6 +539,7 @@ Each problem is stored in its own folder with:
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
