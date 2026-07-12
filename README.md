@@ -62,6 +62,7 @@ Each problem is stored in its own folder with:
 | [0238-product-of-array-except-self](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -466,6 +467,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -568,4 +570,8 @@ Each problem is stored in its own folder with:
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
