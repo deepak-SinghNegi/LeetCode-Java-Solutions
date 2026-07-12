@@ -85,6 +85,7 @@ Each problem is stored in its own folder with:
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1816-truncate-sentence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
