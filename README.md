@@ -453,6 +453,7 @@ Each problem is stored in its own folder with:
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
