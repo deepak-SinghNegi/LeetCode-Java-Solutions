@@ -1,14 +1,19 @@
 class Solution {
     public void sortColors(int[] nums) {
-       int[] arr = new int [3];
-       for(int i=0;i<nums.length;i++){
-        arr[nums[i]]++;
-       } 
-       int j= 0;
-       for(int i=0  ;i<arr.length;i++){
-        Arrays.fill(nums,j,arr[i]+j,i);
-        j+=arr[i];
-       }
-       
+        int n = nums.length;
+        int zeros = 0;
+        int ones = 0;
+        int twos = 0;
+        for(int i = 0; i<n;i++){
+            if(nums[i] == 0)zeros++;
+            else if(nums[i] == 1)ones++;
+            else twos++;
+        }
+        for(int i = 0;i<n;i++){
+            if(i < zeros) nums[i] = 0;
+            else if(i < ones+zeros) nums[i] = 1;
+            else nums[i] = 2;
+        }
+      
     }
 }
