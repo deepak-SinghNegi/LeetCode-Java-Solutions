@@ -47,6 +47,7 @@ Each problem is stored in its own folder with:
 | [0053-maximum-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0075-sort-colors](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0078-subsets/) | Medium |
 | [0085-maximal-rectangle](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -371,6 +372,7 @@ Each problem is stored in its own folder with:
 | [0018-4sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -484,6 +486,7 @@ Each problem is stored in its own folder with:
 | [0018-4sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
