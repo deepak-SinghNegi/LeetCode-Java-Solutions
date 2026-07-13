@@ -62,6 +62,7 @@ Each problem is stored in its own folder with:
 | [0189-rotate-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -354,6 +355,7 @@ Each problem is stored in its own folder with:
 | [0049-group-anagrams](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -495,6 +497,7 @@ Each problem is stored in its own folder with:
 | [0049-group-anagrams](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
