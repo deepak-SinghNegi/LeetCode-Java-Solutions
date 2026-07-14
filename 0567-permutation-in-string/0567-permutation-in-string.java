@@ -1,37 +1,26 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        int [] s1Freq = new int[26] ;
-        int [] s2Freq = new int[26] ;
-        int start = 0;
-        int matchReq = 0;
-        int matchFound = 0;
-        for(int i =0; i<s1.length();i++ ){
-            s1Freq[s1.charAt(i) - 'a']++;
+        int[] freq = new int[26];
+        for (char ch : s1.toCharArray()) {
+            freq[ch - 'a']++;
         }
-        for(int i=0;i<26;i++){
-            if(s1Freq[i]>0)matchReq++;
-        }
+        int size = s1.length();
+        int left = 0;
+        for (int right = 0; right < s2.length(); right++) {
 
-        for(int end = 0;end<s2.length();end++){
-            int eIndx = s2.charAt(end)-'a';
-            s2Freq[eIndx]++;
-            if(s1Freq[eIndx]==s2Freq[eIndx])matchFound++;
-            else if(s1Freq[eIndx]+1==s2Freq[eIndx]) matchFound--;
-
-            if(end-start+1 == s1.length()){
-                if(matchFound==matchReq){
-                    return true;
-                }
-                int sIndx = s2.charAt(start) - 'a';
-                if(s1Freq[sIndx]==s2Freq[sIndx])matchFound--;
-                else if(s1Freq[sIndx]+1==s2Freq[sIndx])matchFound++;
-                s2Freq[sIndx]--;
-                start++;
-
-            }
-            if(end-start+1 == s1.length() && matchFound==matchReq){
+            char ch = s2.charAt(right);
+            if (freq[ch - 'a'] > 0)
+                size--;
+            freq[ch - 'a']--;
+            if (size == 0)
                 return true;
+            if (right - left + 1 == s1.length()) {
+                char chl = s2.charAt(left);
+                if (freq[s2.charAt(left) - 'a'] >= 0)
+                    size++;
+                freq[s2.charAt(left++) - 'a']++;
             }
+
         }
         return false;
     }
