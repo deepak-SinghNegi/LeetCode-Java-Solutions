@@ -183,6 +183,7 @@ Each problem is stored in its own folder with:
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0796-rotate-string/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -479,6 +480,7 @@ Each problem is stored in its own folder with:
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
