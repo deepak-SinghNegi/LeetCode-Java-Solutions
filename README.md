@@ -180,6 +180,7 @@ Each problem is stored in its own folder with:
 | [0044-wildcard-matching](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0072-edit-distance/) | Medium |
+| [0205-isomorphic-strings](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0257-binary-tree-paths](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -370,6 +371,7 @@ Each problem is stored in its own folder with:
 | [0073-set-matrix-zeroes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
