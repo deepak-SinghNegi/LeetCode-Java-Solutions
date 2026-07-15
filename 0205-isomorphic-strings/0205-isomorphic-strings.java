@@ -1,15 +1,13 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        Map<Character , Character> map = new HashMap<>();
+        int map1[] = new int [256];
+        int map2[] = new int [256];
         for(int i = 0; i<s.length();i++){
-            if(!map.containsKey(s.charAt(i)) && map.containsValue(t.charAt(i)))return false;
-            map.put(s.charAt(i) , t.charAt(i));
-            
+            if(map1[s.charAt(i)] != map2[t.charAt(i)])return false;
+            map1[s.charAt(i)] = i+1; 
+            map2[t.charAt(i)] =i+1;
+
         }
-        StringBuilder sb  = new StringBuilder();
-        for(int i = 0; i<s.length(); i++){
-            sb.append(map.get(s.charAt(i)));
-        }
-        return sb.toString().equals(t);
+        return true;
     }
 }
