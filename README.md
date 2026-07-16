@@ -343,6 +343,7 @@ Each problem is stored in its own folder with:
 | [0142-linked-list-cycle-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -411,6 +412,7 @@ Each problem is stored in its own folder with:
 | [0234-palindrome-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
