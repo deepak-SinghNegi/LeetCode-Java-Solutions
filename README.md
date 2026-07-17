@@ -58,6 +58,7 @@ Each problem is stored in its own folder with:
 | [0090-subsets-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -381,6 +382,7 @@ Each problem is stored in its own folder with:
 | [0049-group-anagrams](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -623,6 +625,7 @@ Each problem is stored in its own folder with:
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
