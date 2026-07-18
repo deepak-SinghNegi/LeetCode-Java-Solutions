@@ -269,6 +269,7 @@ Each problem is stored in its own folder with:
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0365-water-and-jug-problem](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -289,6 +290,7 @@ Each problem is stored in its own folder with:
 | [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0542-01-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
@@ -367,6 +369,7 @@ Each problem is stored in its own folder with:
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0263-ugly-number/) | Easy |
+| [0365-water-and-jug-problem](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0396-rotate-function](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0877-stone-game/) | Medium |
