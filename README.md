@@ -358,6 +358,7 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0061-rotate-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -427,6 +428,7 @@ Each problem is stored in its own folder with:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
