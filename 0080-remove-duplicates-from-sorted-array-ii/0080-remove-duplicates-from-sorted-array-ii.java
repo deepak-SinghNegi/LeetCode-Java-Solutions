@@ -12,10 +12,8 @@ class Solution {
 
             } else {
                 if (freq < 2) {
-                    if (nums[k] < nums[i]) {
-                        nums[k] = val;
-                    }
-                    k++;
+
+                    nums[k++] = val;
                     freq++;
                 }
 
