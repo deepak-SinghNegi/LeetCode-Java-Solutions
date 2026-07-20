@@ -27,7 +27,7 @@ class Solution {
             rotateNode = rotateNode.next;
             rIndex--;
         }
-        System.out.print(rotateNode.val);
+        
         ListNode next = rotateNode.next;
         temp = next;
         rotateNode.next = null;
