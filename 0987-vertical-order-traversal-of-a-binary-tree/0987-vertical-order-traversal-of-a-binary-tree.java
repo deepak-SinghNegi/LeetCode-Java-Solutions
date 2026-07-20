@@ -24,7 +24,7 @@ class Solution {
         for (TreeMap<Integer, PriorityQueue<Integer>> smap : map.values()) {
             List<Integer> x = new ArrayList<>();
             for (PriorityQueue<Integer> pq : smap.values()) {
-                System.out.println(pq);
+               
                 while (!pq.isEmpty()) {
                     x.add(pq.poll());
                 }
