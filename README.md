@@ -241,6 +241,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -267,6 +268,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0079-word-search](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -318,6 +320,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -588,6 +591,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
