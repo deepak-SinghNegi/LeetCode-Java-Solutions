@@ -58,6 +58,7 @@ Each problem is stored in its own folder with:
 | [0085-maximal-rectangle](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -246,6 +247,7 @@ Each problem is stored in its own folder with:
 | [0101-symmetric-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -325,6 +327,7 @@ Each problem is stored in its own folder with:
 | [0101-symmetric-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -406,6 +409,7 @@ Each problem is stored in its own folder with:
 | [0049-group-anagrams](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -548,6 +552,7 @@ Each problem is stored in its own folder with:
 | [0004-median-of-two-sorted-arrays](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
