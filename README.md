@@ -253,6 +253,7 @@ Each problem is stored in its own folder with:
 | [0110-balanced-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -278,6 +279,7 @@ Each problem is stored in its own folder with:
 | [0110-balanced-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -306,6 +308,7 @@ Each problem is stored in its own folder with:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0207-course-schedule/) | Medium |
@@ -336,6 +339,7 @@ Each problem is stored in its own folder with:
 | [0110-balanced-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -380,6 +384,7 @@ Each problem is stored in its own folder with:
 | [0061-rotate-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
