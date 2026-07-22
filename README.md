@@ -92,6 +92,7 @@ Each problem is stored in its own folder with:
 | [0560-subarray-sum-equals-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -360,6 +361,7 @@ Each problem is stored in its own folder with:
 | [0436-find-right-interval](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -433,6 +435,7 @@ Each problem is stored in its own folder with:
 | [0413-arithmetic-slices](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0567-permutation-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -564,6 +567,7 @@ Each problem is stored in its own folder with:
 | [0303-range-sum-query-immutable](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
