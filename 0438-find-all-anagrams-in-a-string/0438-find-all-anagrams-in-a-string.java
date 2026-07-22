@@ -1,42 +1,33 @@
-// 
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
+        int freq[] = new int[26];
+        for(char ch : p.toCharArray()){
+            freq[ch - 'a']++;
+
+        }
         List<Integer> list = new ArrayList<>();
-        int [] sfreq = new int[26];
-        int [] pfreq = new int [26];
-        for(int i=0;i<p.length();i++){
-            pfreq[p.charAt(i)-'a']++;
-        }
-        int start = 0;
-        int matchFreq = 0;
+        int size = p.length();
+        int l = 0;
+        for(int r = 0; r<s.length() ; r++){
+            char chr = s.charAt(r);
+            if(freq[chr - 'a'] > 0)
+                size--;
+            freq[chr - 'a']--;
 
-        int reqMatchFreq = 0;
-        for(int i=0;i<26;i++){
-            if(pfreq[i]>0)reqMatchFreq++;
-        }
-        
-    for(int end = 0;end<s.length();end++){
-        sfreq[s.charAt(end)-'a']++;
-        int indx = s.charAt(end)-'a';
-        if(sfreq[indx]==pfreq[indx])matchFreq++;
-        else if(sfreq[indx]==pfreq[indx]+1)matchFreq--;
+            if(size == 0){
+                char chl = s.charAt(l);
+                list.add(l++);
+                size++;
+                freq[chl - 'a']++;
+            }
+            if(r - l +1 >= p.length()){
+                char chl = s.charAt(l++);
+                if(freq[chl -'a'] >=0)
+                    size++;
+                freq[chl -'a']++; 
 
-       
-                
-        
-        if(end-start+1 == p.length()){
-            if (matchFreq == reqMatchFreq) {
-                    list.add(start);
-                }
-            int sIndx = s.charAt(start)-'a';
-            if(sfreq[sIndx]==pfreq[sIndx]) matchFreq--;
-            else if(sfreq[sIndx]==pfreq[sIndx]+1) matchFreq++;
-            sfreq[sIndx]--;
-            start++;
-            
+            }
         }
-        if(end - start + 1 == p.length() && matchFreq == reqMatchFreq ) list.add(start);
-    }
-    return list;
+        return list;
     }
 }
