@@ -79,6 +79,7 @@ Each problem is stored in its own folder with:
 | [0303-range-sum-query-immutable](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0322-coin-change](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0413-arithmetic-slices](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -143,6 +144,7 @@ Each problem is stored in its own folder with:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0179-largest-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
