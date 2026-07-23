@@ -87,6 +87,7 @@ Each problem is stored in its own folder with:
 | [0435-non-overlapping-intervals](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0456-132-pattern](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -371,6 +372,7 @@ Each problem is stored in its own folder with:
 | [0209-minimum-size-subarray-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0436-find-right-interval](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0436-find-right-interval/) | Medium |
+| [0456-132-pattern](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -559,6 +561,7 @@ Each problem is stored in its own folder with:
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0456-132-pattern](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -566,6 +569,7 @@ Each problem is stored in its own folder with:
 | [0042-trapping-rain-water](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0456-132-pattern](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0456-132-pattern/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -700,4 +704,8 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
