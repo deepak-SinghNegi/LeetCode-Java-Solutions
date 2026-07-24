@@ -391,6 +391,7 @@ Each problem is stored in its own folder with:
 | [0002-add-two-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -471,6 +472,7 @@ Each problem is stored in its own folder with:
 | [0075-sort-colors](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0189-rotate-array/) | Medium |
