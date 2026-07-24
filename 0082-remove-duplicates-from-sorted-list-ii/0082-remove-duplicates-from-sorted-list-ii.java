@@ -21,7 +21,7 @@ class Solution {
         ListNode newHead = curr;
         temp = head;
         while (temp != null) {
-            System.out.println(temp.val + " " + map.get(temp.val));
+        
             if (map.get(temp.val) == 1) {
                 curr.next = temp;
                 curr = temp;
