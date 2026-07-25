@@ -14,23 +14,23 @@
  * }
  */
 class Solution {
-    int poi = 0;
+    int posIndex =0; 
     Map<Integer , Integer> map = new HashMap<>();
     public TreeNode buildTree(int[] inorder, int[] postorder) {
         int n = inorder.length;
-        for(int i = 0; i < n; i++){
+        posIndex = n-1;
+        for(int i = 0; i<n;i++){
             map.put(inorder[i] , i);
         }
-        poi = n-1;
-        return buildTreeUtil(inorder , postorder , 0 , n-1);
+        return buildTree(inorder , postorder , 0 ,n-1);
     }
-    private TreeNode buildTreeUtil(int [] inorder , int[] postorder , int left , int right){
-        if(left > right) return null;
-        int rootVal = postorder[poi--];
-        TreeNode root = new TreeNode(rootVal);
-        int ioi = map.get(rootVal);
-        root.right = buildTreeUtil(inorder , postorder , ioi + 1 , right);
-        root.left = buildTreeUtil(inorder , postorder , left , ioi - 1);
+    private TreeNode buildTree(int [] inord , int []postord , int s , int e){
+        if(s > e) return null;
+        int val = postord[posIndex--];
+        TreeNode root = new TreeNode(val);
+        int inIndex = map.get(val);
+        root.right = buildTree(inord , postord , inIndex + 1 , e );
+        root.left = buildTree(inord , postord  , s , inIndex - 1 );
         return root;
     }
 }
