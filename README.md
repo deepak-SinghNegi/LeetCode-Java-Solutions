@@ -205,6 +205,7 @@ Each problem is stored in its own folder with:
 | [0179-largest-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0257-binary-tree-paths](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0299-bulls-and-cows](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -448,6 +449,7 @@ Each problem is stored in its own folder with:
 | [0205-isomorphic-strings](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0299-bulls-and-cows](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -654,6 +656,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0169-majority-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0299-bulls-and-cows](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 ## Queue
