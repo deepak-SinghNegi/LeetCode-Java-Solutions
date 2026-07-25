@@ -16,38 +16,31 @@
 class Solution {
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         Map<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map = new TreeMap<>();
-
+        vtUtil(root, map, 0, 0);
         List<List<Integer>> res = new ArrayList<>();
-
-        vtUtil(map, root, 0, 0);
-
-        for (TreeMap<Integer, PriorityQueue<Integer>> smap : map.values()) {
-            List<Integer> x = new ArrayList<>();
-            for (PriorityQueue<Integer> pq : smap.values()) {
-               
-                while (!pq.isEmpty()) {
-                    x.add(pq.poll());
-                }
+        for (TreeMap<Integer, PriorityQueue<Integer>> inMap : map.values()) {
+            List<Integer> list = new ArrayList<>();
+            for (PriorityQueue<Integer> pq : inMap.values()) {
+                while (!pq.isEmpty())
+                    list.add(pq.poll());
             }
-            res.add(x);
+            res.add(list);
         }
-
         return res;
     }
 
-    private void vtUtil(Map<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map, TreeNode root, int i, int j) {
+    private void vtUtil(TreeNode root, Map<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map, int hi, int vi) {
         if (root == null)
             return;
 
-        if (!map.containsKey(i))
-            map.put(i, new TreeMap<>());
-
-        if (!map.get(i).containsKey(j))
-            map.get(i).put(j, new PriorityQueue<>());
-
-        map.get(i).get(j).offer(root.val);
-
-        vtUtil(map, root.left, i - 1, j + 1);
-        vtUtil(map, root.right, i + 1, j + 1);
+        if (!map.containsKey(hi)) {
+            map.put(hi, new TreeMap<>());
+        }
+        if (!map.get(hi).containsKey(vi)) {
+            map.get(hi).put(vi, new PriorityQueue<>());
+        }
+        map.get(hi).get(vi).add(root.val);
+        vtUtil(root.left, map, hi - 1, vi + 1);
+        vtUtil(root.right, map, hi + 1, vi + 1);
     }
 }
