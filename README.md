@@ -97,6 +97,7 @@ Each problem is stored in its own folder with:
 | [0566-reshape-the-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0724-find-pivot-index](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -389,6 +390,7 @@ Each problem is stored in its own folder with:
 | [0540-single-element-in-a-sorted-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -473,6 +475,7 @@ Each problem is stored in its own folder with:
 | [0567-permutation-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -531,6 +534,7 @@ Each problem is stored in its own folder with:
 | [0494-target-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0542-01-matrix/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0877-stone-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -693,6 +697,7 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -740,4 +745,8 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 <!---LeetCode Topics End-->
