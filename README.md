@@ -61,6 +61,7 @@ Each problem is stored in its own folder with:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -168,6 +169,7 @@ Each problem is stored in its own folder with:
 | [0073-set-matrix-zeroes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0130-surrounded-regions](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -298,6 +300,7 @@ Each problem is stored in its own folder with:
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0130-surrounded-regions](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -326,6 +329,7 @@ Each problem is stored in its own folder with:
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0207-course-schedule/) | Medium |
@@ -729,6 +733,7 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
