@@ -1,45 +1,34 @@
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
-      List<Integer> ans = new ArrayList<>();
-      if (s == null || s.length() == 0 || words == null || words.length == 0)
-            return ans;
-      int wordLen = words[0].length();
-      int ArrLength = words.length;
-      int StringLength = s.length();
-      HashMap<String,Integer> Map = new HashMap<>();
-      for(String word : words){
-        Map.put(word,Map.getOrDefault(word,0)+1);
-      }
-      for(int i = 0;i<wordLen;i++){
-        int left = i;
-        int right = i;
-        int count = 0;
-        HashMap<String, Integer> NewMap = new HashMap<>();
-        while(right+wordLen <= StringLength){
-            String str = s.substring(right,right+wordLen);
-            right+=wordLen;
-            if(Map.containsKey(str)){
-                NewMap.put(str,NewMap.getOrDefault(str,0)+1);
-                count++;
+        int n = words.length;
+        int m = words[0].length();
+        int windSize = n * m;
+        Map<String, Integer> map1 = new HashMap<>();
+        for (String x : words) {
+            map1.put(x, map1.getOrDefault(x, 0) + 1);
+        }
+        List<Integer> res = new ArrayList<>();
+        
+
+        int l = 0;
+       
+        for (int r = 0; r < s.length(); r++) {
+
+            
+            while (r - l + 1 >= windSize) {
+                String str = s.substring(l , r+1);
+                Map<String, Integer> map2 = new HashMap<>();
                 
-                while(NewMap.get(str)>Map.get(str)){
-                    String LeftWord = s.substring(left,left+wordLen);
-                    NewMap.put(LeftWord,NewMap.get(LeftWord)-1);
-                    count--;
-                    left+=wordLen;
+                for (int j = 0; j< windSize; j+=m) {
+                    String sb = str.substring(j, j + m);
+                    map2.put(sb, map2.getOrDefault(sb, 0) + 1);
+                    
                 }
-                if(count==ArrLength){
-                    ans.add(left);
-                }
-            }
-            else{
-                NewMap.clear();
-                count = 0;
-                left=right;
+                if (map1.equals(map2))
+                    res.add(l);
+                l++;
             }
         }
-
-      }
-      return ans;
+        return res;
     }
 }
