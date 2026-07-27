@@ -217,6 +217,7 @@ Each problem is stored in its own folder with:
 | [0257-binary-tree-paths](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0299-bulls-and-cows](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0392-is-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -513,6 +514,7 @@ Each problem is stored in its own folder with:
 | [0189-rotate-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0392-is-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -543,6 +545,7 @@ Each problem is stored in its own folder with:
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0322-coin-change](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0392-is-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0403-frog-jump/) | Hard |
 | [0413-arithmetic-slices](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0413-arithmetic-slices/) | Medium |
