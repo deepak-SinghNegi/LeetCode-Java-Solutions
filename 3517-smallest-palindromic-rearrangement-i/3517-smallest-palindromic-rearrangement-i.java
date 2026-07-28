@@ -19,13 +19,7 @@ class Solution {
                 sb.append(ch);
                 
             }
-
         }
-        if (sb.isEmpty())
-            return s;
-
-        System.out.print(sb);
-        
         return sb.toString() +mid+sb.reverse().toString();
     }
 }
