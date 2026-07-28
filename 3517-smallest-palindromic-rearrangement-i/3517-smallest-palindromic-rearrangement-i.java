@@ -5,9 +5,9 @@ class Solution {
         for (char ch : s.toCharArray()) {
             freq[ch - 'a']++;
         }
-        char mid = '1';
+        String mid = "";
         if (s.length() % 2 == 1) {
-            mid = s.charAt(s.length() / 2);
+            mid += s.charAt(s.length() / 2);
         }
         StringBuilder sb = new StringBuilder();
 
@@ -17,34 +17,15 @@ class Solution {
             while (c > 0) {
                 c--;
                 sb.append(ch);
-                freq[ch - 'a']--;
+                
             }
 
         }
         if (sb.isEmpty())
             return s;
-        if (mid != '1') {
-            sb.append(mid);
-            freq[mid - 'a']--;
-        }
 
-        int n = sb.length();
-
-        if (s.length() % 2 == 0) {
-            for (int i = n - 1; i >= 0; i--) {
-                char ch = sb.charAt(i);
-                if (freq[ch - 'a'] > 0)
-                    sb.append(ch);
-            }
-
-        } else {
-            for (int i = n - 2; i >= 0; i--) {
-                char ch = sb.charAt(i);
-                if (freq[ch - 'a'] > 0)
-                    sb.append(ch);
-            }
-
-        }
-        return sb.toString();
+        System.out.print(sb);
+        
+        return sb.toString() +mid+sb.reverse().toString();
     }
 }
