@@ -245,6 +245,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0024-swap-nodes-in-pairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0044-wildcard-matching](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -415,6 +416,7 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0086-partition-list/) | Medium |
