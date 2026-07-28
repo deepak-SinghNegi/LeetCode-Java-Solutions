@@ -9,7 +9,6 @@ class Solution {
         if (s.length() % 2 == 1) {
             mid = s.charAt(s.length() / 2);
         }
-        System.out.print(mid);
         StringBuilder sb = new StringBuilder();
 
         for (int i = 0; i < 26; i++) {
