@@ -1,47 +1,43 @@
 class Solution {
     public String minWindow(String s, String t) {
-        int sizeOfWindow = Integer.MAX_VALUE;
-        int countRequired = t.length();
-        HashMap<Character, Integer> map = new HashMap<>();
-        String ans = "";
+        if (s.equals(t))
+            return s;
+        int wind = s.length();
+        int n = s.length();
+        int freq[] = new int[256];
         for (char ch : t.toCharArray()) {
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+            freq[ch]++;
         }
-        int left = 0;
+        int l = 0;
+        int size = t.length();
+        String ans = "";
+        for (int r = 0; r < n; r++) {
+            char chr = s.charAt(r);
+            if (freq[chr] > 0)
+                size--;
+            freq[chr]--;
+            while (size == 0) {
 
-        for (int right = 0; right < s.length(); right++) {
-            char ch = s.charAt(right);
-            
-            if (map.containsKey(ch)) {
-                if(map.get(ch)>0){
-                    countRequired--;
+                char chl = s.charAt(l);
+                if (freq[chl] >= 0) {
+                    size++;
+                    ans = s.substring(l, r + 1);
+                    wind = r - l + 1;
                 }
-                map.put(ch, map.getOrDefault(ch, 0) - 1);    
+                l++;
+                freq[chl]++;
             }
-           
-            while (countRequired == 0) {
+            while (r - l + 1 >= wind) {
+                char chl = s.charAt(l++);
+                if (freq[chl] >= 0) {
+                    size++;
+                }
+                freq[chl]++;
 
-                if (sizeOfWindow > right - left + 1) {
-                    
-                    ans = s.substring(left, right+1);
-                    sizeOfWindow = right - left + 1;
-                }
-                char chleft = s.charAt(left);
-                
-                
-                if(map.containsKey(chleft)){
-                    map.put(chleft , map.get(chleft )+1);
-                    if(map.get(chleft)>0){
-                        countRequired++;
-                    }
-                    
-                }
-                left++;
             }
 
         }
 
         return ans;
     }
-
 }
