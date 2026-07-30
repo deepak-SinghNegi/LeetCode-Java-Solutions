@@ -103,6 +103,7 @@ Each problem is stored in its own folder with:
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0724-find-pivot-index](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0877-stone-game/) | Medium |
@@ -571,6 +572,7 @@ Each problem is stored in its own folder with:
 | [0509-fibonacci-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
