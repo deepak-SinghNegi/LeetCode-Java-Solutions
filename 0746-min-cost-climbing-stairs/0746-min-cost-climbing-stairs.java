@@ -1,24 +1,11 @@
 class Solution {
-    int n = 0;
-
     public int minCostClimbingStairs(int[] cost) {
-        n = cost.length;
-        int Dp[] = new int[n+1];
-        Arrays.fill(Dp , -1);
-        Dp[0] = cost[0];
-        Dp[1] = cost[1];
-        minCostClimbingStairsUtil(cost, n ,Dp);
-        
-        return Dp[n];
-    }
-
-    private int minCostClimbingStairsUtil(int[] cost, int i,  int[] Dp) {
-        if (i < 0)
-            return 0;
-        if(Dp[i] !=-1) return Dp[i];
-        int thisStCost = i == n ? 0 : cost[i];
-        int cost1 =thisStCost + minCostClimbingStairsUtil(cost , i - 1 , Dp);
-        int cost2 =thisStCost + minCostClimbingStairsUtil(cost , i - 2 , Dp);
-        return Dp[i] =  Math.min(cost1, cost2);
+        int n = cost.length;
+        int []dp = new int[n+1];
+        dp[n-1] = cost[n-1];
+        for(int i = n-2; i>=0;i--){
+            dp[i] = Math.min(dp[i+1] , dp[i+2])+cost[i];
+        }
+        return Math.min(dp[0] , dp[1]);
     }
 }
