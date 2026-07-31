@@ -206,6 +206,7 @@ Each problem is stored in its own folder with:
 | [0010-regular-expression-matching](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0038-count-and-say/) | Medium |
@@ -470,6 +471,7 @@ Each problem is stored in its own folder with:
 | [0001-two-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -586,6 +588,7 @@ Each problem is stored in its own folder with:
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0046-permutations/) | Medium |
