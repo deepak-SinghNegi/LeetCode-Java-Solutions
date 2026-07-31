@@ -111,6 +111,7 @@ Each problem is stored in its own folder with:
 | [0994-rotting-oranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1046-last-stone-weight](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -773,6 +774,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [1046-last-stone-weight](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Shortest Path
