@@ -19,7 +19,6 @@ class Solution {
         int totalPress = 0;
         int unChar = 0;
         for (int i = 25; i >= 0; i--) {
-            char ch = (char) ('a' + i);
             if (freq[i] > 0) {
                 
                 if(unChar <8)
