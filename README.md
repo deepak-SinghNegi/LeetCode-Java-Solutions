@@ -333,6 +333,7 @@ Each problem is stored in its own folder with:
 | [0572-subtree-of-another-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -358,6 +359,7 @@ Each problem is stored in its own folder with:
 | [0547-number-of-provinces](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -604,6 +606,7 @@ Each problem is stored in its own folder with:
 | [0113-path-sum-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0494-target-sum/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0980-unique-paths-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -766,6 +769,7 @@ Each problem is stored in its own folder with:
 | [0210-course-schedule-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
