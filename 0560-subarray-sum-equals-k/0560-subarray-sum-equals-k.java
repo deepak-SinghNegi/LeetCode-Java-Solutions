@@ -1,29 +1,20 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        int n = nums.length;
-        int[] prifix = new int[n];
-        prifix[0] = nums[0];
-        for (int i = 1; i < n; i++) {
-            prifix[i] = nums[i] + prifix[i - 1];
-        }
         HashMap<Integer, Integer> map = new HashMap<>();
-        int sum = -10001;
-        int c = 0;
+        map.put(0, 1);
+        int sum = 0;
+        int count = 0;
 
-        int i = 0;
-        while (i < n) {
+        for (int num : nums) {
+            sum += num;
 
-            if (sum == k) {
-                c++;
-
+            if (map.containsKey(sum - k)) {
+                count += map.get(sum - k);
+               
             }
-            int val = sum - k;
-            if (map.containsKey(val))
-                c = map.get(val);
-            map.put(val, map.getOrDefault(val, 0) + 1);
-            i++;
 
+            map.put(sum, map.getOrDefault(sum, 0) + 1);
         }
-        return c;
+        return count;
     }
 }
