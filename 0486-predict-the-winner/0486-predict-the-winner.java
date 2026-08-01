@@ -1,7 +1,10 @@
 class Solution {
 
+    int Dp[][];
+
     public boolean predictTheWinner(int[] nums) {
         int n = nums.length;
+        Dp = new int[n+1][n+1];
         if (n <= 2)
             return true;
         int sum = 0;
@@ -18,11 +21,13 @@ class Solution {
         if (i > n) {
             return 0;
         }
+        if (Dp[i][n] != 0)
+            return Dp[i][n];
         int i_take = nums[i] + Math.min(pwUtil(nums, i + 2, n, p1), pwUtil(nums, i + 1, n - 1, p1));
         int n_take = nums[n] + Math.min(pwUtil(nums, i + 1, n - 1, p1), pwUtil(nums, i, n - 2, p1));
         ;
 
-        return Math.max(i_take, n_take);
+        return Dp[i][n] = Math.max(i_take, n_take);
 
     }
 }
