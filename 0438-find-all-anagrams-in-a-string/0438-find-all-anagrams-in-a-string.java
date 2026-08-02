@@ -16,9 +16,8 @@ class Solution {
 
             if(size == 0){
                 char chl = s.charAt(l);
-                list.add(l++);
-                size++;
-                freq[chl - 'a']++;
+                list.add(l);
+                
             }
             if(r - l +1 >= p.length()){
                 char chl = s.charAt(l++);
