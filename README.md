@@ -85,6 +85,7 @@ Each problem is stored in its own folder with:
 | [0322-coin-change](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0396-rotate-function](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0403-frog-jump/) | Hard |
 | [0413-arithmetic-slices](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0413-arithmetic-slices/) | Medium |
@@ -801,6 +802,7 @@ Each problem is stored in its own folder with:
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1046-last-stone-weight](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1046-last-stone-weight/) | Easy |
