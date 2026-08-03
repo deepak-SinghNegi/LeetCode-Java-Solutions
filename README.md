@@ -120,6 +120,7 @@ Each problem is stored in its own folder with:
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1406-stone-game-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -477,6 +478,7 @@ Each problem is stored in its own folder with:
 | [0509-fibonacci-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0877-stone-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -606,6 +608,7 @@ Each problem is stored in its own folder with:
 | [0746-min-cost-climbing-stairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1406-stone-game-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -764,6 +767,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -850,4 +854,12 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0148-sort-list/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
