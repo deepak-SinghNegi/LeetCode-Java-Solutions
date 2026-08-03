@@ -16,7 +16,6 @@ class Solution {
             if (sb.charAt(l++) != sb.charAt(r--))
                 return false;
         }
-        System.out.println(sb);
         return true;
     }
 }
