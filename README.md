@@ -236,6 +236,7 @@ Each problem is stored in its own folder with:
 | [0392-is-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -572,6 +573,7 @@ Each problem is stored in its own folder with:
 | [0287-find-the-duplicate-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
