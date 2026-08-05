@@ -355,6 +355,7 @@ Each problem is stored in its own folder with:
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +383,7 @@ Each problem is stored in its own folder with:
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -812,6 +814,7 @@ Each problem is stored in its own folder with:
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
