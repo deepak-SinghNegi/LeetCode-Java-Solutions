@@ -149,6 +149,7 @@ Each problem is stored in its own folder with:
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2615-sum-of-distances](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -533,6 +534,7 @@ Each problem is stored in its own folder with:
 | [1763-longest-nice-substring](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2615-sum-of-distances](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
