@@ -115,6 +115,7 @@ Each problem is stored in its own folder with:
 | [0877-stone-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0980-unique-paths-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -443,6 +444,7 @@ Each problem is stored in its own folder with:
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -549,6 +551,7 @@ Each problem is stored in its own folder with:
 | [0658-find-k-closest-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1763-longest-nice-substring](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -724,6 +727,7 @@ Each problem is stored in its own folder with:
 | [0560-subarray-sum-equals-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
