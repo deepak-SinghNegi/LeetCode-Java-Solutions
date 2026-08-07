@@ -183,6 +183,7 @@ Each problem is stored in its own folder with:
 | [1903-largest-odd-number-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -268,6 +269,7 @@ Each problem is stored in its own folder with:
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -501,6 +503,7 @@ Each problem is stored in its own folder with:
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -668,6 +671,7 @@ Each problem is stored in its own folder with:
 | [1980-find-unique-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -908,4 +912,8 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 <!---LeetCode Topics End-->
