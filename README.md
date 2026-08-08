@@ -329,6 +329,7 @@ Each problem is stored in its own folder with:
 | [0572-subtree-of-another-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Depth-First Search
@@ -363,6 +364,7 @@ Each problem is stored in its own folder with:
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -430,6 +432,7 @@ Each problem is stored in its own folder with:
 | [0572-subtree-of-another-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Search
