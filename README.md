@@ -151,6 +151,7 @@ Each problem is stored in its own folder with:
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
@@ -268,6 +269,7 @@ Each problem is stored in its own folder with:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -911,6 +913,7 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0456-132-pattern/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -955,4 +958,8 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
