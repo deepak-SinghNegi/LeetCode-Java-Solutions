@@ -275,6 +275,7 @@ Each problem is stored in its own folder with:
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -563,6 +564,7 @@ Each problem is stored in its own folder with:
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -585,6 +587,7 @@ Each problem is stored in its own folder with:
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
