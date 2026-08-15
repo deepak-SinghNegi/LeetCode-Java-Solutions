@@ -117,6 +117,7 @@ Each problem is stored in its own folder with:
 | [0980-unique-paths-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -341,6 +342,7 @@ Each problem is stored in its own folder with:
 | [0701-insert-into-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -445,6 +447,7 @@ Each problem is stored in its own folder with:
 | [0701-insert-into-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -738,6 +741,7 @@ Each problem is stored in its own folder with:
 | [0316-remove-duplicate-letters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0456-132-pattern](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -750,6 +754,7 @@ Each problem is stored in its own folder with:
 | [0316-remove-duplicate-letters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0456-132-pattern](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -827,6 +832,7 @@ Each problem is stored in its own folder with:
 | [0450-delete-node-in-a-bst](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
