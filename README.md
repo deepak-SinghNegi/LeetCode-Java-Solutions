@@ -152,6 +152,7 @@ Each problem is stored in its own folder with:
 | [1980-find-unique-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -299,6 +300,7 @@ Each problem is stored in its own folder with:
 | [0509-fibonacci-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -575,6 +577,7 @@ Each problem is stored in its own folder with:
 | [1763-longest-nice-substring](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2615-sum-of-distances](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -737,6 +740,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -824,6 +828,7 @@ Each problem is stored in its own folder with:
 | [1679-max-number-of-k-sum-pairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
