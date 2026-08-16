@@ -149,6 +149,7 @@ Each problem is stored in its own folder with:
 | [1914-cyclically-rotating-a-grid](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2029-stone-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -189,6 +190,7 @@ Each problem is stored in its own folder with:
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2029-stone-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -526,6 +528,7 @@ Each problem is stored in its own folder with:
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2029-stone-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -842,6 +845,7 @@ Each problem is stored in its own folder with:
 | [1657-determine-if-two-strings-are-close](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2029-stone-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -858,6 +862,7 @@ Each problem is stored in its own folder with:
 | [1406-stone-game-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [2029-stone-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -951,12 +956,14 @@ Each problem is stored in its own folder with:
 | [1140-stone-game-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -973,6 +980,7 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
