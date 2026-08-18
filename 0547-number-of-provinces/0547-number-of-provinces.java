@@ -4,23 +4,28 @@ class Solution {
 
     public int findCircleNum(int[][] isConnected) {
         n = isConnected.length;
-        visited = new boolean [n];
+        visited = new boolean[n];
+        Queue<Integer> q = new LinkedList<>();
         int provinces = 0;
         for (int i = 0; i < n; i++) {
             if (!visited[i]) {
-                dfs(isConnected, i);
+                q.add(i);
+                visited[i] = true;
+                while (!q.isEmpty()) {
+                    int s = q.poll();
+                    for (int j = 0; j < n; j++) {
+                        if (isConnected[s][j] == 1 && !visited[j]) {
+                            visited[j] = true;
+                            q.add(j);
+                        }
+
+                    }
+                }
                 provinces++;
+
             }
         }
         return provinces;
     }
 
-    private void dfs(int[][] isConnected, int s) {
-        visited[s] = true;
-        for (int i = 0; i < isConnected[s].length; i++) {
-            if (isConnected[s][i] == 1 && !visited[i]) {
-                dfs(isConnected, i);
-            }
-        }
-    }
 }
