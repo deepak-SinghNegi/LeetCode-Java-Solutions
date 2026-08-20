@@ -167,6 +167,7 @@ Each problem is stored in its own folder with:
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -315,6 +316,7 @@ Each problem is stored in its own folder with:
 | [2149-rearrange-array-elements-by-sign](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
