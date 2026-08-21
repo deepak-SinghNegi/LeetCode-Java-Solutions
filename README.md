@@ -397,6 +397,7 @@ Each problem is stored in its own folder with:
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0841-keys-and-rooms](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -430,6 +431,7 @@ Each problem is stored in its own folder with:
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0841-keys-and-rooms](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -941,6 +943,7 @@ Each problem is stored in its own folder with:
 | [0547-number-of-provinces](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0841-keys-and-rooms](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
