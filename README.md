@@ -361,6 +361,7 @@ Each problem is stored in its own folder with:
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,6 +437,7 @@ Each problem is stored in its own folder with:
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
@@ -482,6 +484,7 @@ Each problem is stored in its own folder with:
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -859,6 +862,7 @@ Each problem is stored in its own folder with:
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
