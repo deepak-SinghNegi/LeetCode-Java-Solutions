@@ -143,6 +143,7 @@ Each problem is stored in its own folder with:
 | [1672-richest-customer-wealth](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1816-truncate-sentence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1816-truncate-sentence/) | Easy |
@@ -232,6 +233,7 @@ Each problem is stored in its own folder with:
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -785,6 +787,7 @@ Each problem is stored in its own folder with:
 | [0980-unique-paths-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1763-longest-nice-substring](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -841,6 +844,7 @@ Each problem is stored in its own folder with:
 | [0324-wiggle-sort-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1763-longest-nice-substring](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1763-longest-nice-substring/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -857,6 +861,7 @@ Each problem is stored in its own folder with:
 | [1004-max-consecutive-ones-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1872-stone-game-viii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2559-count-vowel-strings-in-ranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
@@ -885,6 +890,7 @@ Each problem is stored in its own folder with:
 | [1657-determine-if-two-strings-are-close](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -984,6 +990,7 @@ Each problem is stored in its own folder with:
 | [1046-last-stone-weight](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1019,6 +1026,7 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
