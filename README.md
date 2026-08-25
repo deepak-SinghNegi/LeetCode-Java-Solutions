@@ -178,6 +178,7 @@ Each problem is stored in its own folder with:
 | [3660-jump-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -636,6 +637,7 @@ Each problem is stored in its own folder with:
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
