@@ -172,6 +172,7 @@ Each problem is stored in its own folder with:
 | [2615-sum-of-distances](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -917,6 +918,7 @@ Each problem is stored in its own folder with:
 | [2500-delete-greatest-value-in-each-row](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -1036,6 +1038,7 @@ Each problem is stored in its own folder with:
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
