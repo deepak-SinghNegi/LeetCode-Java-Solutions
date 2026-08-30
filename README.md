@@ -604,6 +604,7 @@ Each problem is stored in its own folder with:
 | [1903-largest-odd-number-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2729-check-if-the-number-is-fascinating](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -654,6 +655,7 @@ Each problem is stored in its own folder with:
 | [2352-equal-row-and-column-pairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2615-sum-of-distances](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2615-sum-of-distances/) | Medium |
+| [2729-check-if-the-number-is-fascinating](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
