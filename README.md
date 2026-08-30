@@ -159,6 +159,7 @@ Each problem is stored in its own folder with:
 | [2029-stone-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2059-minimum-operations-to-convert-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2059-minimum-operations-to-convert-number/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -546,6 +547,7 @@ Each problem is stored in its own folder with:
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Linked List
@@ -920,6 +922,7 @@ Each problem is stored in its own folder with:
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
