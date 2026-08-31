@@ -569,6 +569,7 @@ Each problem is stored in its own folder with:
 | [0328-odd-even-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
