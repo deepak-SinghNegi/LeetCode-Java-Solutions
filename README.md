@@ -170,6 +170,7 @@ Each problem is stored in its own folder with:
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2615-sum-of-distances](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -249,6 +250,7 @@ Each problem is stored in its own folder with:
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -935,6 +937,7 @@ Each problem is stored in its own folder with:
 | [2089-find-target-indices-after-sorting-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
