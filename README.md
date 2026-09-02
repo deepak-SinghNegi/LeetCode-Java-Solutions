@@ -121,6 +121,7 @@ Each problem is stored in its own folder with:
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1054-distant-barcodes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1140-stone-game-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -205,6 +206,7 @@ Each problem is stored in its own folder with:
 | [0435-non-overlapping-intervals](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0605-can-place-flowers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [1054-distant-barcodes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -649,6 +651,7 @@ Each problem is stored in its own folder with:
 | [0560-subarray-sum-equals-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1054-distant-barcodes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -929,6 +932,7 @@ Each problem is stored in its own folder with:
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1054-distant-barcodes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -967,6 +971,7 @@ Each problem is stored in its own folder with:
 | [0169-majority-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0299-bulls-and-cows](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0299-bulls-and-cows/) | Medium |
+| [1054-distant-barcodes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -1038,6 +1043,7 @@ Each problem is stored in its own folder with:
 | [0658-find-k-closest-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1046-last-stone-weight](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1054-distant-barcodes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
