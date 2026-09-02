@@ -292,6 +292,7 @@ Each problem is stored in its own folder with:
 | [1021-remove-outermost-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -863,6 +864,7 @@ Each problem is stored in its own folder with:
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -1145,4 +1147,8 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0069-sqrtx/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
