@@ -189,6 +189,7 @@ Each problem is stored in its own folder with:
 | [3693-climbing-stairs-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -618,6 +619,7 @@ Each problem is stored in its own folder with:
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
