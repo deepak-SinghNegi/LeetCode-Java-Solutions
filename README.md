@@ -192,6 +192,7 @@ Each problem is stored in its own folder with:
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -918,6 +919,7 @@ Each problem is stored in its own folder with:
 | [2559-count-vowel-strings-in-ranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2615-sum-of-distances](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
