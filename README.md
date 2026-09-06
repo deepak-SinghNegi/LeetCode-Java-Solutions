@@ -280,6 +280,7 @@ Each problem is stored in its own folder with:
 | [0072-edit-distance](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0079-word-search/) | Medium |
+| [0115-distinct-subsequences](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -768,6 +769,7 @@ Each problem is stored in its own folder with:
 | [0085-maximal-rectangle](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0095-unique-binary-search-trees-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0115-distinct-subsequences](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
