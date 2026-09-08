@@ -630,6 +630,7 @@ Each problem is stored in its own folder with:
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
