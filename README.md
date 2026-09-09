@@ -330,6 +330,7 @@ Each problem is stored in its own folder with:
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3694-distinct-points-reachable-after-substring-removal/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
@@ -688,6 +689,7 @@ Each problem is stored in its own folder with:
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3694-distinct-points-reachable-after-substring-removal/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Sliding Window
@@ -714,6 +716,7 @@ Each problem is stored in its own folder with:
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3694-distinct-points-reachable-after-substring-removal/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -928,6 +931,7 @@ Each problem is stored in its own folder with:
 | [2559-count-vowel-strings-in-ranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2615-sum-of-distances](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3694-distinct-points-reachable-after-substring-removal/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Sorting
