@@ -12,14 +12,9 @@ class Solution {
             return 0;
         }
         if(Dp[i][j+1] != null) return Dp[i][j+1];
-        if(j < 0){
-            int c1 = 1 + helper(nums, i + 1, i);
-            int c2 = helper(nums, i + 1, j);
-            return Dp[i][j+1] =  Math.max(c1, c2);
-        }
-        
+      
 
-        else if (nums[j] < nums[i]) {
+        if (j == -1 || nums[j] < nums[i]) {
             int c1 = 1 + helper(nums, i + 1, i);
             int c2 = helper(nums, i + 1, j);
             return Dp[i][j+1] =  Math.max(c1, c2);
