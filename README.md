@@ -80,6 +80,7 @@ Each problem is stored in its own folder with:
 | [0240-search-a-2d-matrix-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0322-coin-change](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0322-coin-change/) | Medium |
@@ -555,6 +556,7 @@ Each problem is stored in its own folder with:
 | [0222-count-complete-tree-nodes](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0436-find-right-interval](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0456-132-pattern](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -783,6 +785,7 @@ Each problem is stored in its own folder with:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0396-rotate-function/) | Medium |
@@ -1174,4 +1177,8 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
