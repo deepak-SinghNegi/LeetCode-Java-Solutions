@@ -95,6 +95,7 @@ Each problem is stored in its own folder with:
 | [0436-find-right-interval](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0456-132-pattern](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0456-132-pattern/) | Medium |
+| [0463-island-perimeter](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0494-target-sum/) | Medium |
@@ -244,6 +245,7 @@ Each problem is stored in its own folder with:
 | [0200-number-of-islands](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0463-island-perimeter](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0733-flood-fill/) | Easy |
@@ -442,6 +444,7 @@ Each problem is stored in its own folder with:
 | [0257-binary-tree-paths](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0437-path-sum-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0437-path-sum-iii/) | Medium |
+| [0463-island-perimeter](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -479,6 +482,7 @@ Each problem is stored in its own folder with:
 | [0210-course-schedule-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0463-island-perimeter](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
