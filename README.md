@@ -604,6 +604,7 @@ Each problem is stored in its own folder with:
 | [0148-sort-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0382-linked-list-random-node](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
@@ -626,6 +627,7 @@ Each problem is stored in its own folder with:
 | [0189-rotate-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0382-linked-list-random-node](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
 | [0396-rotate-function](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -1206,4 +1208,12 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
 <!---LeetCode Topics End-->
