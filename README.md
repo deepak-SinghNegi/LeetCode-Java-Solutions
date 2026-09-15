@@ -229,6 +229,7 @@ Each problem is stored in its own folder with:
 | [2029-stone-game-ix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -330,6 +331,7 @@ Each problem is stored in its own folder with:
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2559-count-vowel-strings-in-ranges](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -777,6 +779,7 @@ Each problem is stored in its own folder with:
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -830,6 +833,7 @@ Each problem is stored in its own folder with:
 | [1872-stone-game-viii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
