@@ -138,6 +138,7 @@ Each problem is stored in its own folder with:
 | [1406-stone-game-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -583,6 +584,7 @@ Each problem is stored in its own folder with:
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -696,6 +698,7 @@ Each problem is stored in its own folder with:
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1345-jump-game-iv](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1763-longest-nice-substring](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1763-longest-nice-substring/) | Easy |
@@ -738,6 +741,7 @@ Each problem is stored in its own folder with:
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1763-longest-nice-substring](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -829,6 +833,7 @@ Each problem is stored in its own folder with:
 | [1140-stone-game-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1510-stone-game-iv](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1563-stone-game-v/) | Hard |
