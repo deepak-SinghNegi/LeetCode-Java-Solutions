@@ -14,20 +14,10 @@ class Solution {
             return null;
         if (head.next == null)
             return head;
-
-        ListNode dummy = new ListNode(0);
-        ListNode curr = head;
-        ListNode ptr = dummy;
-        while (curr != null && curr.next != null) {
-            ptr.next = new ListNode(curr.next.val);
-            ptr = ptr.next;
-            ptr.next = new ListNode(curr.val);
-            ptr = ptr.next;
-            curr = curr.next.next;
-        }
-        if(curr !=null){
-            ptr.next = curr;
-        }
-        return dummy.next;
+        ListNode nextPair = head.next.next;
+        ListNode temp = head.next;
+        head.next = swapPairs(nextPair);
+        temp.next = head;
+        return temp;
     }
 }
