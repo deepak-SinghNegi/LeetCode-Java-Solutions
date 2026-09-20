@@ -344,6 +344,7 @@ Each problem is stored in its own folder with:
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3694-distinct-points-reachable-after-substring-removal/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -377,6 +378,7 @@ Each problem is stored in its own folder with:
 | [2390-removing-stars-from-a-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
