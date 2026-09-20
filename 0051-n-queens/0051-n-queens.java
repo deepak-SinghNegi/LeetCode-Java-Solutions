@@ -2,56 +2,59 @@ import java.util.*;
 
 class Solution {
 
-   
-    boolean isSafe(char[][] board, int row, int col, int n) {
-       
-        for (int i = 0; i < row; i++) {
-            if (board[i][col] == 'Q') return false;
+    private boolean isSafe(List<String> list, int r, int c, int n) {
+        // Check same column
+        for (int i = 0; i < r; i++) {
+            if (list.get(i).charAt(c) == 'Q') {
+                return false;
+            }
         }
 
-       
-        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
-            if (board[i][j] == 'Q') return false;
+        // Check upper-left diagonal
+        for (int i = r - 1, j = c - 1; i >= 0 && j >= 0; i--, j--) {
+            if (list.get(i).charAt(j) == 'Q') {
+                return false;
+            }
         }
 
-       
-        for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
-            if (board[i][j] == 'Q') return false;
+        // Check upper-right diagonal
+        for (int i = r - 1, j = c + 1; i >= 0 && j < n; i--, j++) {
+            if (list.get(i).charAt(j) == 'Q') {
+                return false;
+            }
         }
 
         return true;
     }
 
-    
-    void solve(int row, char[][] board, List<List<String>> result, int n) {
-        if (row == n) {
-            List<String> temp = new ArrayList<>();
-            for (int i = 0; i < n; i++) {
-                temp.add(new String(board[i]));
-            }
-            result.add(temp);
+    private void helper(List<String> list, List<List<String>> board, int r, int n) {
+        if (r == n) {
+            board.add(new ArrayList<>(list));
             return;
         }
 
-        for (int col = 0; col < n; col++) {
-            if (isSafe(board, row, col, n)) {
-                board[row][col] = 'Q';
-                solve(row + 1, board, result, n);
-                board[row][col] = '.'; 
+        for (int c = 0; c < n; c++) {
+            if (isSafe(list, r, c, n)) {
+                // Construct the row string directly for row r
+                char[] row = new char[n];
+                Arrays.fill(row, '.');
+                row[c] = 'Q';
+                
+                // Add to path
+                list.add(new String(row));
+
+                // Recurse to next row
+                helper(list, board, r + 1, n);
+
+                // Backtrack path
+                list.remove(list.size() - 1);
             }
         }
     }
 
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> result = new ArrayList<>();
-        char[][] board = new char[n][n];
-
-       
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(board[i], '.');
-        }
-
-        solve(0, board, result, n);
-        return result;
+        List<List<String>> board = new ArrayList<>();
+        helper(new ArrayList<>(), board, 0, n);
+        return board;
     }
 }
