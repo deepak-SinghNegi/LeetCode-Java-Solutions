@@ -864,6 +864,7 @@ Each problem is stored in its own folder with:
 | [0046-permutations](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0079-word-search/) | Medium |
@@ -1245,4 +1246,5 @@ Each problem is stored in its own folder with:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
