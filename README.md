@@ -194,6 +194,7 @@ Each problem is stored in its own folder with:
 | [3471-find-the-largest-almost-missing-integer](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -665,6 +666,7 @@ Each problem is stored in its own folder with:
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
@@ -1216,6 +1218,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3525-find-x-value-of-array-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Cartesian Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
