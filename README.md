@@ -614,6 +614,7 @@ Each problem is stored in its own folder with:
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -691,6 +692,7 @@ Each problem is stored in its own folder with:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -781,6 +783,7 @@ Each problem is stored in its own folder with:
 | [0125-valid-palindrome](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
