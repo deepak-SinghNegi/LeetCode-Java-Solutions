@@ -172,6 +172,7 @@ Each problem is stored in its own folder with:
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -766,6 +767,7 @@ Each problem is stored in its own folder with:
 | [1763-longest-nice-substring](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
