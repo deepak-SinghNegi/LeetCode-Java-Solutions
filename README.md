@@ -1247,6 +1247,7 @@ Each problem is stored in its own folder with:
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepak-SinghNegi/LeetCode-Java-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
