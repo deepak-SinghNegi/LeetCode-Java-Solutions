@@ -6,7 +6,7 @@ class Solution {
         }
         int ans = 0;
         for(int x : nums){
-            ans += Math.abs(x - val);
+            ans += val-x;
         }
         return ans;
     }
